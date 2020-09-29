@@ -17,6 +17,10 @@ https://www.qwiklabs.com/focuses/1737?parent=catalog
 
 Note: step 6 use RDP to setup IIS in vm-securehost by connecting RDP to vm-bastionhost then use RDP inside vm-bastionhost to connect vm-securehost.
 
+
+![installing IIS](https://github.com/gablooge/GSP303/blob/master/iis.png?raw=true)
+
+
 Here is the example how to setup the IIS: https://www.youtube.com/watch?v=tXsVYJUUZ_s
 
 # Terminal 2 for gcloud authentication
